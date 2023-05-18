@@ -1,4 +1,6 @@
 public class Hello{
   .//logice here 
 //fist modification
+
+  int i=0;
 }
